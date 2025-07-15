@@ -5,14 +5,14 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/zirenox?style=social" alt="followers"/>
-  <img src="https://komarev.com/ghpvc/?username=zirenox&color=brightgreen&style=flat-square" alt="Profile Views"/> 
+  <img src="https://img.shields.io/github/followers/scaptiq?style=social" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=scaptiq&color=brightgreen&style=flat-square" alt="Profile Views"/> 
 </p>
 
 ## 💫 About Me
 
 ```javascript
-const zirenox = {
+const scaptiq = {
     code: ["JavaScript", "TypeScript", "Python", "Node.js"],
     passions: ["Building impactful software", "Open Source", "Learning new tech"],
     currentlyLearning: "Always exploring new technologies",
@@ -34,31 +34,31 @@ const zirenox = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zirenox&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zirenox&show_icons=true&theme=buefy&hide_border=true">
-    <img alt="zirenox's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zirenox&show_icons=true&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=scaptiq&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=scaptiq&show_icons=true&theme=buefy&hide_border=true">
+    <img alt="scaptiq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=scaptiq&show_icons=true&theme=radical&hide_border=true">
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=zirenox&theme=radical&hide_border=true&background=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=zirenox&theme=buefy&hide_border=true">
-    <img alt="zirenox's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=zirenox&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=scaptiq&theme=radical&hide_border=true&background=0D1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=scaptiq&theme=buefy&hide_border=true">
+    <img alt="scaptiq's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=scaptiq&theme=radical&hide_border=true">
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zirenox&theme=radical&bg_color=0D1117&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zirenox&theme=minimal&hide_border=true">
-    <img alt="zirenox's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zirenox&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=scaptiq&theme=radical&bg_color=0D1117&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=scaptiq&theme=minimal&hide_border=true">
+    <img alt="scaptiq's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=scaptiq&theme=radical&hide_border=true">
   </picture>
 </div>
 
 <div align="center">
   <h2>🐍 Watch my contribution graph get eaten by the snake</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zirenox/zirenox/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zirenox/zirenox/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/zirenox/zirenox/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scaptiq/scaptiq/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/scaptiq/scaptiq/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/scaptiq/scaptiq/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
