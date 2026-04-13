@@ -9,7 +9,6 @@ Infrastructure and tools for streamers and creators.
 
 - Kroma — Multi-platform chat overlay
 - VeloraBot — Streamerbot extension
-- Velora — Interaction & card system
 - Custom backend / overlay / infra tools
 
 ### 💬 Kroma
@@ -23,15 +22,6 @@ Features:
 - Custom card rendering
 - Own infrastructure
 
-### 🤖 VeloraBot
-Streamerbot extension built for interaction commands.
-
-Features:
-- %targetUser% mentioning
-- Card support
-- Easy command templates
-- Works with Kroma
-- Active development
 
 ## 🛠 Tech
 
